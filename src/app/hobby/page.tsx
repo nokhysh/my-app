@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Hobby = () => {
   return (
-    <div className="flex flex-col min-h-screen items-center justify-center bg-yellow-100 gap-5">
+    <div className="flex flex-col min-h-screen items-center justify-center bg-yellow-100 gap-5 text-black">
       <div className="text-5xl underline underline-offset-[12px]">My Hobby</div>
       <div className="flex gap-5">
         <div className="w-52 rounded overflow-hidden shadow-lg bg-green-300">
